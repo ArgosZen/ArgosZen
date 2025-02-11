@@ -1,12 +1,42 @@
+Hi there! I'm Argos 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArgosZen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArgosZen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArgosZen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🔧 About Me
 
----
-[![](https://visitcount.itsvg.in/api?id=ArgosZen&icon=0&color=0)](https://visitcount.itsvg.in)
+I'm a passionate explorer of both the digital and physical worlds! By day, I'm diving into cybersecurity, Python testing, and cloud computing, and by night, I'm discovering Mexico's hidden gems. Currently pursuing my second degree and working towards certifications like CCST Cybersecurity and AZ-900.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔒 Ethical Hacking | 🎮 Gamer | 🤖 Autodidacta | 🎡 Anime Lover
+
+Passionate about ethical hacking and cybersecurity.
+
+Gaming enthusiast, always up for a challenge.
+
+Self-taught learner, always exploring new technologies.
+
+Big fan of anime—recommend me something cool!
+
+🛡️ Tech & Skills
+
+Cybersecurity: Ethical hacking, network security
+
+Python: Testing & automation
+
+Cloud Computing: Microsoft Azure fundamentals
+
+Networking: Cisco basics (CCST-level)
+
+🌍 Where to Find Me
+
+GitHub: You're already here! 🚀
+
+🚀 Current Goals
+
+Expand my cybersecurity knowledge
+
+Improve my Python testing skills
+
+Explore more of Mexico & share my experiences
+
+Let's connect and collaborate on exciting projects!
+
+"Security is not a product, but a process." — Bruce Schneier
+
